@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/wiyn-home/services/</loc>
+    <lastmod>2026-11-15T05:39:08.961Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/wiyn-home/services/ai-receptionist/</loc>
     <lastmod>2026-11-15T05:39:01.727Z</lastmod>
     <changefreq>weekly</changefreq>
