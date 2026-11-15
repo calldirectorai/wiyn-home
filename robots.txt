@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calldirectorai.github.io/wiyn-home/sitemap.xml
+Sitemap: https://whatsinyournetwork.com/sitemap.xml
