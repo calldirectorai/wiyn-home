@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/wiyn-home/network-age-check/</loc>
+    <lastmod>2026-11-15T05:38:54.297Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/wiyn-home/</loc>
-    <lastmod>2026-11-15T05:37:40.407Z</lastmod>
+    <lastmod>2026-11-15T05:37:55.725Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
