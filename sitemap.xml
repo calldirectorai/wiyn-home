@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://whatsinyournetwork.com/services/ai-receptionist/</loc>
+    <lastmod>2026-11-15T05:57:19.664Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://whatsinyournetwork.com/terms-of-service/</loc>
     <lastmod>2026-11-15T05:56:29.591Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,11 +28,6 @@
   <url>
     <loc>https://whatsinyournetwork.com/services/copper-line-replacement/</loc>
     <lastmod>2026-11-15T05:55:51.290Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://whatsinyournetwork.com/services/ai-receptionist/</loc>
-    <lastmod>2026-11-15T05:49:32.888Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
