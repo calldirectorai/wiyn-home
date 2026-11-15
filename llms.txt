@@ -14,10 +14,15 @@ Led by Rodrigue Dossouvi (Germantown, Maryland), a phone systems consultant with
 ## Services and prices
 - [Network Age Check](https://whatsinyournetwork.com/network-age-check/): free. A few questions about phone lines, phone system, router and after-hours calls, with a plain grade (current, aging or end of life).
 - [AI receptionist](https://whatsinyournetwork.com/services/ai-receptionist/): $299 setup, then $197 a month. Answers the main number day and night, takes caller details, hands off to the team. Plans start with 60 days, then month to month with 30 days' notice. Live in 5 business days or the setup fee back.
-- Network Assessment: every phone line and device mapped. Included free with an AI receptionist, or $295 on its own.
+- [Network Assessment](https://whatsinyournetwork.com/services/network-assessment/): every phone line and device mapped. Included free with an AI receptionist, or $295 on its own.
+- [Copper phone line changes](https://whatsinyournetwork.com/services/copper-line-replacement/): we find what is plugged into a small office's copper phone lines and work with the phone provider on the switch. Covered in the Network Assessment.
+- [Office phone system upgrade](https://whatsinyournetwork.com/services/phone-system-upgrade/): we identify the phone system, map the numbers and write the list to take to the phone provider. Covered in the Network Assessment.
 - [All services](https://whatsinyournetwork.com/services/)
 
 ## More
+- [Guide: copper phone line retirement in Maryland and DC](https://whatsinyournetwork.com/resources/): what it means and five things a small office should do now.
 - [Who we help](https://whatsinyournetwork.com/who-we-help/): medical and dental offices, property managers, daycares and schools, restaurants, law and accounting offices, small multi-site businesses.
 - [About](https://whatsinyournetwork.com/about/)
 - [Contact](https://whatsinyournetwork.com/contact/)
+- [Privacy Policy](https://whatsinyournetwork.com/privacy-policy/)
+- [Terms of Service](https://whatsinyournetwork.com/terms-of-service/)
