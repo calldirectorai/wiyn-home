@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://whatsinyournetwork.com/</loc>
+    <lastmod>2026-11-15T05:43:20.506Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://whatsinyournetwork.com/about/</loc>
     <lastmod>2026-11-15T05:42:35.157Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,11 +33,6 @@
   <url>
     <loc>https://whatsinyournetwork.com/network-age-check/</loc>
     <lastmod>2026-11-15T05:38:54.297Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://whatsinyournetwork.com/</loc>
-    <lastmod>2026-11-15T05:37:55.725Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
